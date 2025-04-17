@@ -1,0 +1,14 @@
+{
+  "name": "asabot",
+  "version": "1.0.0",
+  "description": "Discord bot for rendering outputs of orgapi",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliot Poulette",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
